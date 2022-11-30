@@ -42,15 +42,15 @@
 
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eranga-bandara&show_icons=true&locale=en&layout=compact" alt="eranga-bandara" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DMGamage&show_icons=true&locale=en&layout=compact" alt="DMGamage" /></p>
 </div>
 <br>
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eranga-bandara&show_icons=true&locale=en" alt="eranga-bandara" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eranga-bandara&show_icons=true&locale=en" alt="DMGamage" /></p>
 </div>
 <br>
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eranga-bandara&" alt="eranga-bandara" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DMGamage&" alt="DMGamage" /></p>
 </div>
 
 <h3 align="left">💪 My Contributions:</h3>
