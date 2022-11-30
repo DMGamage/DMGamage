@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/dhanushka-gamage-404400187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eranga-bandara-75667b15a" height="30" width="40" /></a>
 <a href="https://twitter.com/Eranga_Laksitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Eranga_Laksitha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20107151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20107151" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/eranga_bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eranga_bandara" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/DMGamage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="DMGamage" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -46,7 +46,7 @@
 </div>
 <br>
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eranga-bandara&show_icons=true&locale=en" alt="DMGamage" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DMGamage&show_icons=true&locale=en" alt="DMGamage" /></p>
 </div>
 <br>
 <div align="center">
@@ -56,4 +56,4 @@
 <h3 align="left">💪 My Contributions:</h3>
 <br>
 
-<a href="https://github.com/AshanSandeep06/github-readme-activity-graph"><img alt="Eranga Bandara's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Eranga-Bandara&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/AshanSandeep06/github-readme-activity-graph"><img alt="Eranga Bandara's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dhanushaka-Madhushan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
