@@ -16,6 +16,9 @@ Exploring the landscape of intelligence:
 - ![JavaFX](https://www.vectorlogo.zone/logos/javafx/javafx-icon.svg) JavaFX
 - ![Robotics](<Robotics_Image_URL>) Robotics
 
+## 🤖 Robotics Enthusiast
+Delving into the world of automation and intelligent machines, my journey extends to the realm of robotics.
+
 ## 📬 Let's Connect!
 - 📧 Email: gamagemadhushan@gmail.com
 - 🐦 Twitter: [Tweet with me](https://twitter.com/)
