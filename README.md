@@ -16,11 +16,12 @@ Exploring the landscape of intelligence:
 
 ## 🛠️ Languages & Tools Palette
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" alt="opencv" width="40" height="40"/>
 </p>
+
 
 ## 🚀 GitHub Odyssey
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dmgamage&show_icons=true&locale=en&layout=compact)
