@@ -1,4 +1,4 @@
-# 🚀 Welcome to the AI Wonderland! I'm Dhanushka Madhushan, your guide on this ML & DL adventure! 🌟
+# 🚀 I'm Dhanushka Madhushan, your guide on this ML & DL adventure! 🌟
 
 ## 🌐 Journey through Data
 As a passionate Machine Learning and Computer Vision Engineer from Sri Lanka, I sculpt ideas from raw data and breathe life into algorithms.
